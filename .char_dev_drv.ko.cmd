@@ -1,0 +1,1 @@
+cmd_/home/gvc/Desktop/kernel/char_dev_drv.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/gvc/Desktop/kernel/char_dev_drv.ko /home/gvc/Desktop/kernel/char_dev_drv.o /home/gvc/Desktop/kernel/char_dev_drv.mod.o ;  true

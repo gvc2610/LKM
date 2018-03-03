@@ -1,0 +1,1 @@
+cmd_/home/gvc/Desktop/kernel/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/gvc/Desktop/kernel/hello.ko /home/gvc/Desktop/kernel/hello.o /home/gvc/Desktop/kernel/hello.mod.o ;  true

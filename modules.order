@@ -1,0 +1,3 @@
+kernel//home/gvc/Desktop/kernel/hello.ko
+kernel//home/gvc/Desktop/kernel/char_dev_drv.ko
+kernel//home/gvc/Desktop/kernel/klist.ko
